@@ -20,7 +20,7 @@ const _styles = StyleSheet.create({
   },
   fbyFUaMt: {
     left: 70,
-    top: 149,
+    top: 160,
     position: "absolute",
     height: 60,
     width: 140,
