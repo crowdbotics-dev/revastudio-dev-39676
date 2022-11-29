@@ -1,3 +1,4 @@
+import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({});
 export const globalOptions = {
   "name": "revastudio_dev_39676",
@@ -6,7 +7,7 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "App Menu",
+    "title": "App Menu 231",
     "copy": "Routes available",
     "styles": styles
   }
