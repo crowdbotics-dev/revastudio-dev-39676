@@ -6,9 +6,5 @@ export const globalOptions = {
   "api": "https://revastudio_dev_39676.botics.co/api/v1"
 };
 export const modulesOptions = {
-  "@modules/app-menu": {
-    "title": "App Menu 231",
-    "copy": "Routes available",
-    "styles": styles
-  }
+  "@modules/app-menu": {}
 };
